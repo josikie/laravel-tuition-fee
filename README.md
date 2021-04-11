@@ -1,6 +1,6 @@
 Aplikasi ini mengambil tema SPP atau UKK RPL Paket 1. 
 
-Hai, ini aplikasi TA yang saya buat untuk UKK SMK RPL Tahun 2021, Puji Tuhan saya lancar mengerjakan UKK, hanya saja aplikasi ini belum selesai. Ada dua fitur yang belum selesai yaitu Payment dan CRUD Operator. Aplikasi ini sudah bisa jalan dengan fitur login auth (untuk admin, operator, dan siswa), CRUD Student, CRUD Grade, dan CRUD Fee. Ini open source ya, silahkan yang mau mengembangkan.
+Hai, ini aplikasi TA yang saya buat untuk UKK SMK RPL Tahun 2021, Puji Tuhan saya lancar mengerjakan UKK, hanya saja aplikasi ini belum selesai. Ada dua fitur yang belum selesai yaitu Payment dan CRUD Operator. Aplikasi ini sudah bisa jalan dengan fitur login auth (untuk admin, operator, dan siswa), CRUD Student, CRUD Grade, dan CRUD Fee. Ini open source ya, silahkan yang mau mengembangkan. Semoga ini bisa bermanfaat ya. Terimakasih.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
